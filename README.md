@@ -21,7 +21,7 @@ This website is my personnal website that will allow you to access to many proje
 
 ## Overview
 
-ADD SCREENSHOTS WHEN THE SITE IS DONE
+Screenshots will be added soon
 
 ## Languages Used
 
